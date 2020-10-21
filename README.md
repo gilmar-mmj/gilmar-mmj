@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Gilmar, passionate about technologies and I'm studying RactJS, React Native and NodeJS at @Rocketseat currently.
-Graduated in Computer Science at UNESC and I have five up years of experience with desktop development.
+Graduated in Computer Science at UNESC and I have five years over of experience with desktop development.
 I've been learning about web development and stuff. 
 I love to learn and code.
 
