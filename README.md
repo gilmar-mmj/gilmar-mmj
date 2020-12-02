@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gilmar, passionate about technologies and I'm studying RactJS, React Native and NodeJS at @Rocketseat currently.
+I'm Gilmar, passionate about technologies and I am currently studying RactJS, React Native and NodeJS at @Rocketseat.
 Graduated in Computer Science at UNESC and I have five years over of experience with desktop development.
 I've been learning about web development and stuff. 
 I love to learn and code.
